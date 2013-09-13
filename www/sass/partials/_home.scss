@@ -1,0 +1,47 @@
+#home{
+    height: 769px;
+    background: $color_green;
+    display: table;
+    text-align: center;
+    z-index: 2;
+    margin-bottom:20px;
+    position: relative;
+
+    h1{
+        margin:0;
+        display: table-cell;
+        vertical-align: middle;
+
+        img{
+
+        }
+    }
+
+    .buttonContainer{
+        width: 100%;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        height: 40px;
+
+        button{
+            border:0;
+            background:transparent;
+            background-image:url(../img/arrow_down_white.png);
+            background-repeat:no-repeat;
+            width:31px;
+            height:18px;
+            position: relative;
+            margin: auto;
+            display: block;
+            padding: 0;
+            line-height: 0;
+            transition: all 0.2s;
+            background-size:100%;
+
+            &:hover{
+                background-image:url(../img/arrow_down_black.png);
+            }
+        }
+    }
+}
