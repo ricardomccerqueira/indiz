@@ -14,7 +14,9 @@ var Indiz = {
         });
 
         $("#home .buttonContainer button").on("click",function(){
-            window.location.href="#/quemsomos";
+            $('body,html').stop().animate({scrollTop:$(".quemsomos").position().top - Indiz.topOffset()}, 1000,function(){
+                Indiz.canCyclePage = true;
+            });
         });
 
         $("#contacts button").on("click",Indiz.hideContacts);

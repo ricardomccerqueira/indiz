@@ -182,7 +182,7 @@
                     </div>
                     <div class="grid-70 push-15">
                         <p class="grid-30">
-                            Damos acesso a respostas sobre a cultura de um determinado segmento de consumidores, a comunicação de um concorrente, os convites de uma configuração de retalho ou uma dada campanha antes do seu lançamento. Damos acesso a respostas sobre a cultura de um determinado segmento de consumidores, a comunicação de um concorrente, os convites de uma configuração de retalho ou uma dada campanha antes do seu lançamento.
+                            Damos acesso a respostas sobre a cultura de um determinado segmento de consumidores, a comunicação de um concorrente, os convites de uma configuração de retalho ou uma dada campanha antes do seu lançamento.
                         </p>
                         <p class="grid-30 push-5">
                             Todos os serviços Indiz orientam. Oferecemos direções claras.
